@@ -9,4 +9,5 @@ import "fmt"
 
 func main()  {
 	fmt.Println("hello world,go auto build")
+	fmt.Println("auto build two")
 }
